@@ -1,8 +1,8 @@
-### Hi there <img src="./assets/hi.gif" width="28px">, My name is Pedro Henrique, but you may call me Pedux! Welcome to my Github profile. <img src="./assets/among.gif" width="50px">
+### Hi there , My name is Pedro Henrique, but you may call me Pedux! Welcome to my Github profile.
 
 Backend Developer.
 
-- 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from <a href="http://www.uece.br/">Universidade Estácio do Ceará</a>.
+- 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from Universidade Estácio do Ceará.
 
 <h3>&nbsp;Languages and tools </h3>
 
