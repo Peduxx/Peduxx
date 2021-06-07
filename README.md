@@ -15,8 +15,8 @@ Backend Developer.
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 
-<!---![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)--->
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+<!---![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)--->
 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![GNUbash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
