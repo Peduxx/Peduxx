@@ -8,13 +8,13 @@ Backend Developer.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)<br>
 ![CSharp](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=c#)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)<br>
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 <!---![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)--->
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)<br>
 ![GNUbash](https://img.shields.io/badge/Shell_Script-121011?style=flat&logo=gnu-bash&logoColor=white)
 
 <a href="https://github.com/Peduxx">
