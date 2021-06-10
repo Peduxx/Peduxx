@@ -1,4 +1,4 @@
-### Hi there , My name is Pedro Henrique, but you may call me Pedux! Welcome to my Github profile.
+### Hi there, My name is Pedro Henrique, but you may call me Pedux! Welcome to my Github profile.
 
 Backend Developer.
 
