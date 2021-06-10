@@ -10,7 +10,7 @@ Backend Developer.
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 <!--![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)-->
-<!---![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)--->
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 <!---![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)--->
