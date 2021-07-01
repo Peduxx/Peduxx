@@ -28,5 +28,4 @@ Backend Developer.
 
 [![Linkedin: Pedro Henrique](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/pedro-henrique-alves-das-neves-8391291a5/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:phalves944@gmail.com)
-[![Telegram](https://img.shields.io/badge/-Telegram-0e76a8?style=flat-square&logo=Telegram&logoColor=white&link=https://t.me/davozard)](https://t.me/Peduxx)
 [![GitHub Pedro Henrique](https://img.shields.io/github/followers/Peduxx?label=follow&style=social)](https://github.com/Peduxx/)
