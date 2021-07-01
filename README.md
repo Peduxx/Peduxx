@@ -3,7 +3,7 @@
 Backend Developer.
 
 - 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from Universidade Estácio do Ceará.
-- 💻 &nbsp; Developer in FitBank.
+- 💻 &nbsp; Developer at FitBank.
 
 <h3>&nbsp;Languages and tools </h3>
 
