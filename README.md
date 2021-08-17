@@ -1,6 +1,6 @@
 ### Hi there, My name is Pedro Henrique, but you may call me Pedux! Welcome to my Github profile.
 
-Backend Developer.
+Fullstack Developer.
 
 - 🎓 &nbsp; Undergraduate of **COMPUTER SCIENCE** from Universidade Estácio do Ceará.
 - 💻 &nbsp; Developer at FitBank.
