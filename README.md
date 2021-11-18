@@ -18,9 +18,7 @@
 
 ## About me
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Peduxx)](https://github.com/Peduxx)
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-alves-das-neves-8391291a5/)](https://www.linkedin.com/in/pedro-henrique-alves-das-neves-8391291a5/)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Peduxx)](https://github.com/Peduxx) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-alves-das-neves-8391291a5/)](https://www.linkedin.com/in/pedro-henrique-alves-das-neves-8391291a5/)
 
 
 
