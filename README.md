@@ -22,7 +22,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-alves-das-neves-8391291a5/)](https://www.linkedin.com/in/pedro-henrique-alves-das-neves-8391291a5/)
 
-
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=phalves944@gmail.com)
 
 - Thanks for visiting.
 
