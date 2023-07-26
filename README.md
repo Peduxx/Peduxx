@@ -21,7 +21,7 @@ I'm FullStack developer.
 
 <div align="center">
   
-  ![Snake animation](https://github.com/dudubernardino/dudubernardino/blob/output/github-contribution-grid-snake-dark.svg)
+  ![Snake animation](https://github.com/Peduxx/Peduxx/blob/output/github-contribution-grid-snake-dark.svg)
   
 </div>
 
