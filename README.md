@@ -5,7 +5,7 @@
 
 <h3>&nbsp;Stacks</h3>
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,postgres,mysql,mongo,redis,angular,react,docker,terraform,aws,azure&theme=dark" />
   </a>
