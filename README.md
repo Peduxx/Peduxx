@@ -1,4 +1,6 @@
-### Hi there, my name is Pedro Henrique.
+### Hi there, my name is Pedro! Welcome to my Github profile :)
+
+#### Computer Science student and Software Engineer with 3+ years of experience, focused on building full-stack solutions.
 
 <h3>&nbsp;Languages and tools</h3>
 
