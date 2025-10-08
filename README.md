@@ -1,16 +1,5 @@
 ## Hi there, my name is Pedro! Welcome to my Github profile :)
 
-### About me
- 📌 Computer Science student and Software Engineer with 3+ years of experience, focused on building full-stack solutions.
-
-<h3>&nbsp;Stacks</h3>
-
-<p align="start">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,nodejs,postgres,mysql,mongo,redis,angular,react,docker,terraform,aws,azure&theme=dark" />
-  </a>
-</p>
-
 <br/>
 
 <div align="center" >
